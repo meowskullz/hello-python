@@ -1,0 +1,4 @@
+name = input("Who should I greet? ")
+print("Hello, " + name + "!")
+print("Welcome to the world of Python!")
+print(name + " is going to love Python!")
